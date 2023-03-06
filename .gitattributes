@@ -1,2 +1,4 @@
-* linguist-vendored
-*.rs linguist-vendored=false
+guessing_game/*
+hello_cargo/*
+hello_world/*
+simple_rpg/*
