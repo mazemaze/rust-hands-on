@@ -1,4 +1,5 @@
-*.rs linguist-language=Rust
+* linguist-vendored
+*.rs linguist-vendored=false
 
 guessing_game/*
 hello_cargo/*
